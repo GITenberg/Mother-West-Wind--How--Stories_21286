@@ -1,0 +1,49 @@
+_repo: Mother-West-Wind--How--Stories_21286
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cady, Harrison
+    aliases:
+    - Cady, W. Harrison (Walter Harrison)
+    - Cady, Walter Harrison
+    birthdate: 1877
+    deathdate: 1970
+    gutenberg_agent_id: '8456'
+    url: http://www.gutenberg.org/2009/agents/8456
+covers:
+- cover_type: archival
+  image_path: 21286-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Peter Rabbit hears the story of how old Mr. Squirrel became thrifty,
+  why Johnny Chuck sleeps all winter, and other interesting tales.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21286'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: How old King Eagle won his white head -- How old Mr. Mink taught
+  himself to swim -- How old Mr. Toad learned to sing -- How old Mr. Crow lost his
+  double tongue -- How Howler the Wolf got his name -- How old Mr. Squirrel became
+  thrifty -- How Lightfoot the Deer learned to jump -- How Mr. Flying Squirrel almost
+  got wings -- How Mr. Weasel was made an outcast -- Ho the eyes of old Mr. Owl became
+  fixed -- How it happens Johnny Chuck sleeps all winter -- How old Mr. Otter learned
+  to slide -- How Drummer the Woodpecker came by his red cap -- How old Mr. Tree Toad
+  found out how to climb -- How old Mr. Heron learned patience -- How Tufty the Lynx
+  happens to have a stump of a tail.
+title: Mother West Wind "How" Stories
+url: http://www.gutenberg.org/ebooks/21286
